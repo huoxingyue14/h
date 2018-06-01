@@ -106,6 +106,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://euniceyeh.github.io
-    
-exclude: [README.md, Gemfile, Rakefile, travis.sh]
+    base_url: https://github.com
