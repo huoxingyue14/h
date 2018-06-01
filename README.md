@@ -1,4 +1,4 @@
-## Eunice's Personal Website - [euniceyeh.github.io](https://euniceyeh.github.io)
+## Eunice's Personal Website - [landing page](https://euniceyeh.github.io/indigo)
 
 Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo) by Sérgio Kopplin @sergiokopplin - [Theme Demo](http://sergiokopplin.github.io/indigo/).
 
