@@ -16,7 +16,7 @@ picture: 'assets/images/profile.jpg'
 # resume-external: true
 # resume-url: https://google.com/?q=my+resume
 
-url: http://euniceyeh.github.io
+url: https://euniceyeh.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -106,6 +106,6 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://euniceyeh.github.io
     
 exclude: [README.md, Gemfile, Rakefile, travis.sh]
