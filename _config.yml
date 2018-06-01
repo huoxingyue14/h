@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Eunice Yeh
+bio: Carolina girl doing biostats at Harvard
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,41 +16,41 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://euniceyeh.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-120209639-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+# disqus:
+#   shortname: mydisqus # enter this from your disqus account
+#   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: euniceyay
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: euniceyay
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: euniceyeh
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: euniceyeh
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: eyeh@sdac.harvard.edu
 
 authors:
     johndoe:
@@ -80,10 +80,10 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+# read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
