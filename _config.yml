@@ -3,7 +3,7 @@ name: Eunice Yeh
 bio: Carolina girl doing biostats at Harvard
 
 # twitter summary info
-description: The intersection of public health data and statistics.
+description: Application of statistics on public health data.
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,8 +16,10 @@ picture: 'assets/images/profile.jpg'
 # resume-external: true
 # resume-url: https://google.com/?q=my+resume
 
-url: https://euniceyeh.github.io
-# your url: http://USERNAME.github.io
+url: "https://euniceyeh.github.io"
+baseurl: ""
+title: "Eunice Yeh"
+keywords: Eunice, Yeh, Biostatistics, UNC, Harvard, Boston
 
 permalink: /:title/
 
@@ -93,6 +95,9 @@ show-author: true
 
 # do you want some animations?
 animation: true
+
+markdown: kramdown
+highlighter: rouge
 
 sass:
     sass_dir: _sass
