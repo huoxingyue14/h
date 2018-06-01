@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://euniceyeh.github.io
+url: http://euniceyeh.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -53,18 +53,12 @@ github: euniceyeh
 email: eyeh@sdac.harvard.edu
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    euniceyeh:
+        name: Eunice Yeh
+        bio: Carolina girl doing biostats at Harvard
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        instagram: euniceyay
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -100,6 +94,10 @@ show-author: true
 # do you want some animations?
 animation: true
 
+sass:
+    sass_dir: _sass
+    style: :compressed
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
@@ -109,3 +107,5 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+    
+exclude: [README.md, Gemfile, Rakefile, travis.sh]
