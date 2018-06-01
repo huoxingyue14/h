@@ -22,11 +22,11 @@ Followed helpful set-up and customization tutorials by Arti Annaswamy @aannasw -
 
 ## Set-up
 
-1. See [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo)
-2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
+1. Go to [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo)
+2. [Fork](https://github.com/sergiokopplin/indigo/fork) the project
 3. Rename the repo to `your-username.github.io`
-4. Edit `_config.yml` with your data
-5. Follow [Arti's blog post](http://artiannaswamy.com/build-a-github-blog-part-2) for further customizations.
+4. Edit `_config.yml` with your own personal details
+5. Read [Arti's blog post](http://artiannaswamy.com/build-a-github-blog-part-2) for further customizations.
 
 ## How To?
 
