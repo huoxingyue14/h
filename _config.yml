@@ -1,7 +1,7 @@
 # main text of home
 name: Eunice Yeh
 bio: Statistical analyst, programmer, grad student, avid sleeper
-last_updated: June 2, 2018
+last_updated: '`r format(Sys.time(), "%d %B, %Y")`'
 
 # twitter summary info
 description: Carolina girl doing biostats at Harvard
@@ -75,13 +75,13 @@ width: normal
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-# blog: true
+blog: true
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
 
 # do you want to show the "read time" of the posts?
-# read-time: true
+read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
