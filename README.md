@@ -26,17 +26,17 @@ Followed helpful set-up and customization tutorials by Arti Annaswamy @aannasw -
 
 1. Go to the original [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo).
 2. [Fork](https://github.com/sergiokopplin/indigo/fork) the project.
-3. Rename the repo to `your-username.github.io` if you want that to be your site url, otherwise if you keep indigo as the repo name like I did then the site url will be `your-username.github.io/indigo`.
-4. Edit `_config.yml` with your own personal details.
+3. Rename the repo to `your-username.github.io` if you want that to be your site url, otherwise if you keep indigo as the repo name like I did then the site url will automatically be `your-username.github.io/indigo`.
+4. Update `_config.yml` with your own personal details.
 5. Read Arti's [blog post](http://artiannaswamy.com/build-a-github-blog-part-2) for further customizations.
 
 ## My edits
 
-Besides the standard personalization needed to make this website mine, here is a few more edits I have added to the theme:
+Besides the standard personalization needed to make this website mine, here is a list of additional edits I have made to the theme:
 
 * Customized a minimal header that goes on every page that is not the landing page - from Arti's [blog post](http://artiannaswamy.com/build-a-github-blog-part-2#different-headers). 
 * Added google scholar as a social link, but using the same icon as Google - let me know if you can help me add a new icon for the official google scholar icon (it's a lower-case 'g' with a tilted graduation cap).
-* (currently working on) adding a system datetime for when the site was last updated into the footer.
+* (currently working on) adding an automatic system datetime for when the site was last updated into the footer.
 
 ## FAQ
 
