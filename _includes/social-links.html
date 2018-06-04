@@ -6,15 +6,15 @@
         </a>
     {% endif %}
     
-    {% if site.scholar %}
-        <a class="link" data-title="scholar.google.com/{{ site.scholar }}" href="https://scholar.google.com/citations?user={{ site.scholar }}" target="_blank">
-            <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.linkedin %}
         <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">
             <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.scholar %}
+        <a class="link" data-title="scholar.google.com/{{ site.scholar }}" href="https://scholar.google.com/citations?user={{ site.scholar }}" target="_blank">
+            <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
         </a>
     {% endif %}
 
