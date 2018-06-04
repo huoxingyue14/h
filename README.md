@@ -9,26 +9,36 @@ Followed helpful set-up and customization tutorials by Arti Annaswamy @aannasw -
 <p align="center">
     <b><a href="README.md#pages">Pages</a></b>
     |
-    <b><a href="README.md#set-up">Set-up</a></b>
+    <b><a href="README.md#theme-set-up">Set-up</a></b>
     |
-    <b><a href="README.md#how-to">FAQ</a></b>
+    <b><a href="README.md#my-edits">Edits</a></b>
+    |
+    <b><a href="README.md#faq">FAQ</a></b>
 </p>
 
 ## Pages
 
-- Home Page `index.html`
-- About `about.md`
-- Projects `projects.html`
+* Landing page (Home) `index.html`
+* About page `about.md`
+* All projects and blog posts are written under the `_posts` directory
 
-## Set-up
+## Theme Set-up
 
-1. Go to [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo)
-2. [Fork](https://github.com/sergiokopplin/indigo/fork) the project
-3. Rename the repo to `your-username.github.io`
-4. Edit `_config.yml` with your own personal details
-5. Read [Arti's blog post](http://artiannaswamy.com/build-a-github-blog-part-2) for further customizations.
+1. Go to the original [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo).
+2. [Fork](https://github.com/sergiokopplin/indigo/fork) the project.
+3. Rename the repo to `your-username.github.io` if you want that to be your site url, otherwise if you keep indigo as the repo name like I did then the site url will be `your-username.github.io/indigo`.
+4. Edit `_config.yml` with your own personal details.
+5. Read Arti's [blog post](http://artiannaswamy.com/build-a-github-blog-part-2) for further customizations.
 
-## How To?
+## My edits
+
+Besides the standard personalization needed to make this website mine, here is a few more edits I have added to the theme:
+
+* Customized a minimal header that goes on every page that is not the landing page - from Arti's [blog post](http://artiannaswamy.com/build-a-github-blog-part-2#different-headers). 
+* Added google scholar as a social link, but using the same icon as Google - let me know if you can help me add a new icon for the official google scholar icon (it's a lower-case 'g' with a tilted graduation cap).
+* (currently working on) adding a system datetime for when the site was last updated into the footer.
+
+## FAQ
 
 Check the [FAQ](./FAQ.md) for common issues.
 
