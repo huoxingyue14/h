@@ -1,5 +1,5 @@
 ---
-title: "Data Science Project: Electronic Health Records"
+title: "Data Science: Electronic Health Records"
 layout: post
 date: 2017-12-11
 tag: 
@@ -9,11 +9,11 @@ tag:
 - project
 - bookdown
 headerImage: false
+category: project
 projects: true
 hidden: true # don't count this post in blog pagination
+externalLink: false # include link if blog post already exists elsewhere
 description: "This is a quick summary post about my final Data Science project on EHR use."
-category: project
-externalLink: true
 ---
 
 <iframe width="560" height="310" src="https://www.youtube.com/watch?v=ukJsGriRPTc" frameborder="0" allowfullscreen></iframe>
