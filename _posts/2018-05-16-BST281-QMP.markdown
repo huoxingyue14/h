@@ -21,7 +21,10 @@ As part of the Spring 2018 course in Genomic Data Manipulation (BST 281) taught 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhBpyHGlC1uG7TWnOJvIcW1MdVtw4FtfAnvAYecXaSHp6OBS2IfZIgTryAacBAD0mSIYZTYdzebRw-/embed?start=false&loop=true&delayms=15000" frameborder="0" width="560" height="310" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-- Our journal club presentation previewed above summarizes [this paper](https://www.nature.com/articles/nature24460).
-- The [final project presentation](https://docs.google.com/presentation/d/1wulo-3Q8p5BdtOY5yeQ1isGAyF6d4yr96W1VdsrRF8s/edit?usp=sharing) gives you a quick overview/analysis plan with preliminary results that generated class discussion.
+- Our journal club presentation previewed above summarizes the [QMP paper](https://www.nature.com/articles/nature24460).
+- The final project presentation shown below gives you a quick overview/analysis plan with preliminary results that generated class discussions and feedback that were taken into account as we finished up the project with our individual write-ups.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYYuDgpfEZ1_oH671PTgHAbdiKtuegzCPRQE8R9518JRc82sj1ZiEG4A3BmCthVJG6RpfqaOpsLet_/embed?start=false&loop=true&delayms=15000" frameborder="0" width="560" height="310" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 - Our project's [Github repo](https://github.com/euniceyeh/QMP-Project) contains all the data manipulation and analysis programs written in python, R, and mathematica.
 - You can read my individual write-up for the project [here](https://raw.githubusercontent.com/euniceyeh/indigo/gh-pages/assets/BST281_eunice_yeh_final_project.pdf).
