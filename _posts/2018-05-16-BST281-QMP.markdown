@@ -27,4 +27,4 @@ As part of the Spring 2018 course in Genomic Data Manipulation (BST 281) taught 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYYuDgpfEZ1_oH671PTgHAbdiKtuegzCPRQE8R9518JRc82sj1ZiEG4A3BmCthVJG6RpfqaOpsLet_/embed?start=false&loop=true&delayms=15000" frameborder="0" width="560" height="310" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 - Our project's [Github repo](https://github.com/euniceyeh/QMP-Project) contains all the data manipulation and analysis programs written in python, R, and mathematica.
-- <mark>You can read my final individual write-up for the project [here](https://euniceyeh.github.io/indigo/assets/BST281_euniceyeh_final_writeup.pdf).</mark>
+- <span class="evidence">You can read my final individual write-up for the project:</span> [here](https://euniceyeh.github.io/indigo/assets/BST281_euniceyeh_final_writeup.pdf).
