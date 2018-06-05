@@ -13,18 +13,16 @@ category: project
 projects: true
 hidden: true # don't count this post in blog pagination
 externalLink: false # include link if blog post already exists elsewhere
-description: "This is a quick summary post about my final Data Science project on EHR use."
+description: "A quick summary post about my final Data Science project on EHR use."
 ---
 
-<iframe width="560" height="310" src="https://www.youtube.com/watch?v=ukJsGriRPTc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="310" src="https://youtu.be/ukJsGriRPTc" frameborder="0.1" allowfullscreen></iframe>
 
 ---
 
-In the Fall semester of 2017, I took an introductory [Data Science](http://datasciencelabs.github.io/) course at [Harvard Chan](https://www.hsph.harvard.edu/) as a master's student in biostatistics. We mainly learned to program in R and integrate that with Github. As a final group project for the course, I collaborated with two other master's students who are also interested in analyzing public health data to produce the following deliverables:
+In the Fall semester of 2017, I took an introductory [Data Science](http://datasciencelabs.github.io/) course at [Harvard Chan](https://www.hsph.harvard.edu/) as a master's student in biostatistics. We mainly programmed in R and integrated that with Github. As a final group project for the course, I collaborated with two other master's students who are also interested in analyzing public health data to produce the following deliverables:
 
 - Two-minute screencast with narration (shown above).
 - [Public website](https://katwang.github.io/BST-260-Final-Project-Site/) as a quick summary of our project and main findings, created using Github Pages.
 - Full [analysis report](https://euniceyeh.github.io/EHR-Project/) compiled in bookdown, detailing the entire project process.
-- Our project's Github [repo](https://github.com/euniceyeh/EHR-Project) contains all the code to the bookdown and analyses.
-
----
+- Our project's [Github repo](https://github.com/euniceyeh/EHR-Project) contains all the code to the bookdown and analyses.
