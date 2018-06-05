@@ -8,7 +8,7 @@ layout: page
 
 <p>Born and raised in Taipei, Taiwan for about 10 years, I immigrated with my whole family to the U.S. to spend the rest of my teenage years growing up in Cary, North Carolina - yes, where SAS was founded.</p>
 
-<h2>Skills</h2>
+<h2>Technical Skills</h2>
 
 <ul class="skill-list">
 	<li>Sublime - snippets, projects, packages</li>
@@ -18,11 +18,17 @@ layout: page
 	<li>LaTeX</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Other Skills</h2>
+
+<ul class="skill-list">
+	<li>Fluent in Mandarin Chinese</li>
+	<li>Freelance in event photography</li>
+</ul>
+
+<h2>Volunteer</h2>
 
 <ul>
-	<li><a href="http://euniceyeh.github.io/EHR-Project">Data Science: EHR Use</a></li>
-	<li><a href="https://github.com/euniceyeh/QMP-Project">Genomic Data: Quantitative Microbiome Profiling</a></li>
+	<li><a href="http://justiceandhealth.org">Justice and Health</a></li>
 </ul>
 
 <h2>Interests</h2>
