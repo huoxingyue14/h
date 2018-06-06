@@ -12,7 +12,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>Sublime - snippets, projects, package control</li>
-	<li>SAS - data manipulation, SQL, ODS, GTL, %macro, 9.4 STAT PROCS</li>
+	<li>SAS - data manipulation, SQL, ODS, GTL, %macro, 9.4 STAT PROCs</li>
 	<li>R - tidyverse (esp. dplyr and ggplot2), markdown, bookdown</li>
 	<li>Python - jupyter notebook & scripting; sys, io, numpy, scipy, doctest</li>
 	<li>LaTeX</li>
