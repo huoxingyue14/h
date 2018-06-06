@@ -25,7 +25,7 @@ layout: page
 	<li><a href="http://euniceyeh.github.io/indigo/travel">Travel</a> + <a href="http://delightful-voyage.tumblr.com/">Photography</a></li>
 	<li>Listening to Hamilton by Lin-Manuel Miranda, both the musical soundtrack and the mixtape</li>
 	<li>Helping out with <a href="http://justiceandhealth.org">Justice and Health</a></li>
-	<li>Playing with everyone else's dogs :dog:</li>
+	<li>Playing with everyone else's dogs</li>
 </ul>
 
 <h4><a href="https://euniceyeh.github.io/indigo/assets/2018_euniceyeh_CV.pdf">Formal CV</a></h4>
