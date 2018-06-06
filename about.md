@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Currently <a href="https://www.hsph.harvard.edu/cbar/">researching</a> full-time and <a href="https://www.hsph.harvard.edu/biostatistics/masters-programs/">studying</a> part-time at Harvard in Boston, MA.</p>
+<p>Currently a full-time <a href="https://www.hsph.harvard.edu/cbar/">statistical analyst/programmer</a> and part-time <a href="https://www.hsph.harvard.edu/biostatistics/masters-programs/">grad student</a> living in Boston, MA.</p>
 
 <p>Born and raised in Taipei, Taiwan for about 10 years, I immigrated with my parents and two sisters to the U.S. to spend the next decade growing up in Cary, NC. Loved the southern hospitality and bbq, hated country music, and survived the public education system. Soon graduated from UNC Chapel Hill with a bachelor's degree in biostatistics and began working at Harvard by 21. Been staying young, scrappy, and hungry since. ¯\_(ツ)_/¯ </p>
 
