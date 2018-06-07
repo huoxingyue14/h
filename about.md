@@ -4,18 +4,18 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Currently a full-time <a href="https://www.hsph.harvard.edu/cbar/">statistical analyst/programmer</a> and part-time <a href="https://www.hsph.harvard.edu/biostatistics/masters-programs/">grad student</a> living in Boston, MA.</p>
+<p>Currently a full-time <a href="https://www.hsph.harvard.edu/cbar/">statistical analyst</a> and part-time <a href="https://www.hsph.harvard.edu/biostatistics/masters-programs/">grad student</a> living in Boston, MA.</p>
 
 <p>Born and raised in Taipei, Taiwan for about 10 years, I immigrated with my parents and two sisters to the U.S. to spend the next decade growing up in Cary, NC. Loved the southern hospitality and bbq, hated country music, and survived the public education system. Soon graduated from UNC Chapel Hill with a bachelor's degree in biostatistics and began working at Harvard by 21. Been staying young, scrappy, and hungry since. ¯\_(ツ)_/¯ </p>
 
 <h2>Technical Skills</h2>
 
 <ul class="skill-list">
-	<li>Sublime - snippets, projects, package control</li>
-	<li>SAS - data manipulation, SQL, ODS, GTL, %macro, 9.4 STAT PROCs</li>
-	<li>R - tidyverse (esp. dplyr and ggplot2), markdown, bookdown</li>
-	<li>Python - jupyter notebook & scripting; sys, io, numpy, scipy, doctest</li>
-	<li>LaTeX</li>
+	<li><b>Sublime</b> - snippets, projects, package control</li>
+	<li><b>SAS</b> - data manipulation, SQL, ODS, GTL, %macro, 9.4 STAT PROCs</li>
+	<li><b>R</b> - tidyverse (esp. dplyr and ggplot2), markdown, bookdown</li>
+	<li><b>Python</b> - jupyter notebook & scripting; sys, io, numpy, scipy, doctest</li>
+	<li><b>LaTeX</b></li>
 </ul>
 
 <h2>Interests</h2>
