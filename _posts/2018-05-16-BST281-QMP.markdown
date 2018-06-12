@@ -4,9 +4,9 @@ author: euniceyeh
 layout: post
 date: 2018-05-16
 tag: 
-- genomic
-- multi'omic
-- microbiome
+- computational biology
+- multi'omics
+- human microbiome
 - project
 - crohn's disease
 headerImage: false
