@@ -17,7 +17,7 @@ externalLink: false # include link if blog post already exists elsewhere
 description: "An ongoing project to document the places I've traveled to around the world."
 ---
 
-For now, here is a boring list. Eventually, I want to map the places I've been and what's on my bucket list hopefully using R maps.
+For now, here is a boring list. Eventually, I want to map the places I've been and what's on my bucket list hopefully using R maps. An extended goal is for each pin on the map to be clickable, linking to a photo album or a blog associated with that travel??
 
 # Domestic:
 
