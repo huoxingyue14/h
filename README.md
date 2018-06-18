@@ -37,7 +37,6 @@ Besides the standard personalization needed to make this website mine, here is a
 * Customized a minimal header that goes on every page besides the home page and a draft feature to blog posts - from Arti's [blog](http://artiannaswamy.com/build-a-github-blog-part-2#different-headers). 
 * Using the same navigation class as the home page on every page.
 * Added google scholar as a social link, but using the same icon as Google - let me know if you can help me add a new icon for the official google scholar icon (it's a lower-case 'g' with a tilted graduation cap).
-* (currently working on) adding an automatic system datetime for when the site was last updated into the footer.
 
 ## FAQ
 
