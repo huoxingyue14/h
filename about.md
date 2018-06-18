@@ -15,7 +15,7 @@ layout: page
 	<li><b>SAS</b> - data manipulation, SQL, ODS, GTL, %macro, 9.4 STAT PROCs</li>
 	<li><b>R</b> - tidyverse (dplyr & ggplot2), markdown, bookdown</li>
 	<li><b>Python</b> - jupyter notebook & scripting; sys, io, numpy, scipy, doctest</li>
-	<li><b>$\LaTeX$</b></li>
+	<li><b>![](https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg)</b></li>
 </ul>
 
 <h2>Interests</h2>
