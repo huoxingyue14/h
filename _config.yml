@@ -1,7 +1,6 @@
 # main text of home
 name: Eunice Yeh
-bio: Stat analyst, programmer, grad student, nap enthusiast
-last_updated: '`r format(Sys.time(), "%d %B, %Y")`'
+bio: Statistical analyst, programmer, grad student, nap enthusiast
 
 # twitter summary info
 description: Carolina girl doing biostats at Harvard
