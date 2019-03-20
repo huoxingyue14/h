@@ -28,4 +28,4 @@ layout: page
 	<li>Playing with everyone else's dogs</li>
 </ul>
 
-<h4><a href="https://euniceyeh.github.io/assets/2018_euniceyeh_CV.pdf">Formal CV</a></h4>
+<h4><a href="https://euniceyeh.github.io/assets/2019_euniceyeh_CV.pdf">Formal CV</a></h4>
