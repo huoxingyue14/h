@@ -10,5 +10,5 @@ layout: page
 
 <h3>Updated: May 24, 2020</h3>
 <ul>
-<li><a href="https://xingyueh.github.io/assets/Resume.pdf"> <p>CV</p> </a></li>
+<li><a href="https://huoxingyue14.github.io/h/assets/Resume.pdf"> <p>CV</p> </a></li>
 </ul>
