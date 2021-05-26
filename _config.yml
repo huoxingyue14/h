@@ -97,12 +97,12 @@ show-author: true
 # do you want some animations?
 animation: true
 
-#markdown: kramdown
-#highlighter: rouge
+markdown: kramdown
+highlighter: rouge
 
-#sass:
-#    sass_dir: _sass
-#    style: :compressed
+sass:
+    sass_dir: _sass
+    style: :compressed
 
 plugins:
   - jekyll-seo-tag
@@ -111,5 +111,5 @@ plugins:
   - jemoji
   - jekyll-admin
 
-#jekyll-mentions:
-#    base_url: https://github.com
+jekyll-mentions:
+    base_url: https://github.com
