@@ -16,9 +16,9 @@ picture: 'assets/images/profile.jpg'
 # resume-external: true
 # resume-url: https://google.com/?q=my+resume
 
-#url: "https://XingyueH.github.io"
+url: "https://huoxingyue14.github.io/h/"
 #baseurl: ""
-#title: "Xingyue Huo"
+title: "Xingyue Huo"
 
 permalink: /:title/
 
