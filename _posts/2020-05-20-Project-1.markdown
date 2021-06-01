@@ -1,5 +1,5 @@
 ---
-title: "Electronic Health Record"
+title: ":book: Electronic Health Record"
 layout: post
 date: 2020-05-20
 tag: 
