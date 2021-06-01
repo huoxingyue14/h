@@ -1,12 +1,11 @@
 ---
-title: "Project 1: [Data Science]Electronic Health Record"
+title: "Electronic Health Record"
 layout: post
 date: 2020-05-20
 tag: 
 - data science
 - EHR
 - public health
-- project
 #image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
@@ -24,13 +23,10 @@ In the Fall semester of 2017, I took a [Data Science](http://datasciencelabs.git
 - [Public website](https://katwang.github.io/BST-260-Final-Project-Site/) as a quick summary of our project and main findings, created using Github Pages.
 - Full [analysis report](https://euniceyeh.github.io/EHR-Project/) compiled in bookdown, detailing the entire project process.
 - Our project's [Github repo](https://github.com/euniceyeh/EHR-Project) containing all the code to the bookdown and analyses.
+
 ---
-
-
 <iframe width="560" height="310" src="https://www.youtube.com/embed/ukJsGriRPTc" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="true"></iframe>
-
-
 ---
 
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
+#[Check it out](https://sergiokopplin.github.io/indigo/) here.
 
