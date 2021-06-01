@@ -54,12 +54,12 @@ linkedin: xingyue-huo
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 
-#authors:
+authors:
 #    XingyueH:
-#        name: Xingyue Huo
-#        bio: 
-#        external-image: false
-#        picture: assets/images/profile.jpg
+        name: Xingyue Huo
+        bio: Stat enthusiast 
+        external-image: false
+        picture: assets/images/profile.jpg
 #        twitter: 
 
 # do you want a larger site? change the option below
