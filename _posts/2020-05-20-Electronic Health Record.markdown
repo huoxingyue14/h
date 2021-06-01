@@ -28,5 +28,4 @@ In the Fall semester of 2017, I took a Data Science course as a master's student
 <iframe width="560" height="310" src="https://www.youtube.com/embed/ukJsGriRPTc" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="true"></iframe>
 ---
 
-#[Check it out](https://sergiokopplin.github.io/indigo/) here.
 
