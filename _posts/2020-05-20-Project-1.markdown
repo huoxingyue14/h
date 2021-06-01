@@ -18,24 +18,19 @@ externalLink: false # include link if blog post already exists elsewhere
 
 ---
 
-#![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+In the Fall semester of 2017, I took a [Data Science](http://datasciencelabs.github.io/) course at [Harvard Chan](https://www.hsph.harvard.edu/) as a master's student in biostatistics. We mainly programmed in R and integrated that with Github. As a final group project for the course, I collaborated with two other master's students who are also interested in analyzing public health data to produce the following deliverables:
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
-
+- Two-minute screencast with narration (watch below).
+- [Public website](https://katwang.github.io/BST-260-Final-Project-Site/) as a quick summary of our project and main findings, created using Github Pages.
+- Full [analysis report](https://euniceyeh.github.io/EHR-Project/) compiled in bookdown, detailing the entire project process.
+- Our project's [Github repo](https://github.com/euniceyeh/EHR-Project) containing all the code to the bookdown and analyses.
 ---
 
-What has inside?
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+<iframe width="560" height="310" src="https://www.youtube.com/embed/ukJsGriRPTc" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="true"></iframe>
+
 
 ---
 
 [Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](huoxingyue14@gmail.com).
 
