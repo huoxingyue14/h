@@ -1,19 +1,24 @@
 ---
-title: "Project 1"
+title: "Project 1: [Data Science]Electronic Health Record"
 layout: post
-date: 2020-05-20 22:10
-tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+date: 2020-05-20
+tag: 
+- data science
+- EHR
+- public health
+- project
+#image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "A quick summary post about my final Data Science project on EHR use."
 category: project
-author: johndoe
-externalLink: false
+author: Xingyue Huo
+externalLink: false # include link if blog post already exists elsewhere
+
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+#![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
