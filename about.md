@@ -8,13 +8,10 @@ layout: page
 <body style="background-image:url('off-white-bg.jpg');">
 <div id="academic-background" class="section level3">
 <h3>Academic Background</h3>
-<p><strong>Columbia University, M.S.</strong><br />
-Focus: Biostatistics (Theory and Methods Track)<br />
+<p><strong>Emory University, M.S.</strong><br />
+Focus: Biostatistics (Rollins School of Public Health)<br />
 Core Courses: Data Science I, Biostatistical Methods I&amp;II, Statistical Inference, Design of Medical Experiments, New Drug Development, Analysis of Longitudinal Data, Data Mining, Pharmacoepidemiology</p>
-<p><strong>Fudan University, B.S.</strong><br />
-Focus: Pharmaceutical Sciences<br />
-Core Courses: Pharmaceutical Analysis, Pharmacy Administration, Biotech Drug Delivery System, Pharmaceutical Biotechnology,Pharmacokinetics, Integrated Experiments of Drug Design<br />
-Awards: Academic Scholarship for continuous three years</p>
+
 </div>
 <div id="professional-experience" class="section level3">
 <h3>Professional Experience</h3>
