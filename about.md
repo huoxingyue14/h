@@ -8,7 +8,7 @@ layout: page
 <body style="background-image:url('off-white-bg.jpg');">
 <div id="academic-background" class="section level3">
 <h3>Academic Background</h3>
-<p><strong>Biostatistics, Rollins School of Public Health, Emory University, M.S.</strong><br />
+<p><strong>Biostatistics</strong>, Rollins School of Public Health, Emory University, M.S.<br />
 <strong>Core Courses:</strong> Applied Linear Models, Biostatistical Methods I&amp;II, Statistical Inference, Machine Learning,Survival Analysis Methods,Modern Regression Analysis, High-throughput data analysis using R and bioConductor, Statistical Computing, Data Mining</p>
 
 </div>
