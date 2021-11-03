@@ -15,23 +15,14 @@ Core Courses: Data Science I, Biostatistical Methods I&amp;II, Statistical Infer
 </div>
 <div id="professional-experience" class="section level3">
 <h3>Professional Experience</h3>
-<p><strong>Data preprocessing and visulization using R (team training), Lecturer</strong><br />
+<p><strong>iostatistician at Mount Sinai Health System, New York, NY</strong><br />
 ▪ Self created R learning materials and gave 5 sharing lectures to the team members<br />
 
 
-
-
-<h3>Academic Background</h3>
-<p>Emory University, M.S./
-    Focus: Biostatistics (Rollins School of Public Health, Atlanta, GA.)/
-    Core Courses: Data Science I, Biostatistical Methods I&II, Statistical Inference, Design of Medical Experiments, New Drug Development, Analysis of Longitudinal Data<p>
-
-<h3>Professional Experience</h3>
-<p>Biostatistician at Mount Sinai Health System, New York, NY.</p>
-
-
-
-<h3>Resume (Updated: Nov. 02, 2021)</h3>
+</div>
+<div id="Resume" class="section level3">
+<h3>Resume</h3>
+<p><strong>updated Nov,2021</strong><br />
 <ul>
 <li><a href="https://huoxingyue14.github.io/h/assets/Resume1.pdf"> <p>CV</p> </a></li>
 </ul>
