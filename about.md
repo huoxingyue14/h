@@ -16,7 +16,6 @@ Core Courses: Data Science I, Biostatistical Methods I&amp;II, Statistical Infer
 <div id="professional-experience" class="section level3">
 <h3>Professional Experience</h3>
 <p><strong>Biostatistician at Mount Sinai Health System, New York, NY</strong><br />
-▪ Self created R learning materials and gave 5 sharing lectures to the team members<br />
 
 
 </div>
