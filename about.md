@@ -9,7 +9,7 @@ layout: page
 <div id="academic-background" class="section level3">
 <h3>Academic Background</h3>
 <p><strong>Biostatistics, Rollins School of Public Health, Emory University, M.S.</strong><br />
-Core Courses: Data Science I, Biostatistical Methods I&amp;II, Statistical Inference, Design of Medical Experiments, New Drug Development, Analysis of Longitudinal Data, Data Mining, Pharmacoepidemiology</p>
+Core Courses: Applied Linear Models, Biostatistical Methods I&amp;II, Statistical Inference, Machine Learning,Survival Analysis Methods,Modern Regression Analysis, High-throughput data analysis using R and bioConductor, Statistical Computing, Data Mining</p>
 
 </div>
 <div id="professional-experience" class="section level3">
