@@ -22,7 +22,5 @@ Core Courses: Data Science I, Biostatistical Methods I&amp;II, Statistical Infer
 </div>
 <div id="Resume" class="section level3">
 <h3>Resume</h3>
-<ul>
-<li><a href="https://huoxingyue14.github.io/h/assets/Resume1.pdf"> <p>CV</p> </a></li>
-</ul>
-<p><strong>updated Nov,2021</strong><br />
+<p><strong>updated Nov,2021</strong><br /> <li><a href="https://huoxingyue14.github.io/h/assets/Resume1.pdf"> <p>CV</p> </a></li>
+
