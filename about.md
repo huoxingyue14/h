@@ -15,14 +15,14 @@ Core Courses: Data Science I, Biostatistical Methods I&amp;II, Statistical Infer
 </div>
 <div id="professional-experience" class="section level3">
 <h3>Professional Experience</h3>
-<p><strong>iostatistician at Mount Sinai Health System, New York, NY</strong><br />
+<p><strong>Biostatistician at Mount Sinai Health System, New York, NY</strong><br />
 ▪ Self created R learning materials and gave 5 sharing lectures to the team members<br />
 
 
 </div>
 <div id="Resume" class="section level3">
 <h3>Resume</h3>
-<p><strong>updated Nov,2021</strong><br />
 <ul>
 <li><a href="https://huoxingyue14.github.io/h/assets/Resume1.pdf"> <p>CV</p> </a></li>
 </ul>
+<p><strong>updated Nov,2021</strong><br />
