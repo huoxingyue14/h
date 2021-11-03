@@ -4,8 +4,14 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
+<h3>Academic Background</h3>
+<p>Emory University, M.S.
+Focus: Biostatistics (Rollins School of Public Health, Atlanta, GA.)
+Core Courses: Data Science I, Biostatistical Methods I&II, Statistical Inference, Design of Medical Experiments, New Drug Development, Analysis of Longitudinal Data
+
+<h3>Professional Experience</h3>
 <p>Biostatistician at Mount Sinai Hospital, New York, NY.</p>
-<p>Rollins School of Public Health, Emory University, Atlanta, GA. </p>
+
 
 
 <h3>Updated: May 24, 2020</h3>
