@@ -8,8 +8,7 @@ layout: page
 <body style="background-image:url('off-white-bg.jpg');">
 <div id="academic-background" class="section level3">
 <h3>Academic Background</h3>
-<p><strong>Emory University, M.S.</strong><br />
-Focus: Biostatistics (Rollins School of Public Health)<br />
+<p><strong>Biostatistics, Rollins School of Public Health, Emory University, M.S.</strong><br />
 Core Courses: Data Science I, Biostatistical Methods I&amp;II, Statistical Inference, Design of Medical Experiments, New Drug Development, Analysis of Longitudinal Data, Data Mining, Pharmacoepidemiology</p>
 
 </div>
